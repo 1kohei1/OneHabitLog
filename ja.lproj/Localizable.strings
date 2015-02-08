@@ -1,0 +1,34 @@
+/* 
+  Localizable.strings
+  One Habit Log
+
+  Created by Kohei Arai on 2013/10/07.
+  Copyright (c) 2013年 Kohei Arai. All rights reserved.
+*/
+
+/************ title of new habit ************/
+"habit.title" = "新しい記録";
+
+/************ button titlte at the tutorial ************/
+"tutorial_button" = "始める";
+
+/************ images at tutorial ************/
+"tutorial1" = "ja-tutorial1.png";
+"tutorial2" = "ja-tutorial2.png";
+"tutorial3" = "ja-tutorial3.png";
+"tutorial4" = "ja-tutorial4.png";
+
+/************ images at tutorial ************/
+"password_title" = "秘密モード";
+"password_placeholder" = "パスワードを入力してください";
+
+/************ setting variable ************/
+"save_and_close" = "保存して閉じる";
+"title_of_habit" = "タイトル";
+"title_of_habit_detail" = "好きなタイトルをつけてください";
+"secret" = "秘密モード";
+"secret_password" = "パスワード";
+"secret_detail" = "秘密モードをオンにすると、この記録にアクセスしようとするたびにパスワードが求められます";
+"delete" = "削除";
+"delete_detail" = "この記録を削除しますか？";
+"delete_confirm" = "一度削除すると二度とデータは復元できません。それでも削除しますか？";

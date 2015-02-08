@@ -1,0 +1,34 @@
+/* 
+  Localizable.strings
+  One Habit Log
+
+  Created by Kohei Arai on 2013/10/07.
+  Copyright (c) 2013年 Kohei Arai. All rights reserved.
+*/
+
+/************ title of new habit ************/
+"habit.title" = "New Habit";
+
+/************ button titlte at the tutorial ************/
+"tutorial_button" = "Begin";
+
+/************ images at tutorial ************/
+"tutorial1" = "en-tutorial1.png";
+"tutorial2" = "en-tutorial2.png";
+"tutorial3" = "en-tutorial3.png";
+"tutorial4" = "en-tutorial4.png";
+
+/************ images at tutorial ************/
+"password_title" = "Secret";
+"password_placeholder" = "Enter password";
+
+/************ setting variable ************/
+"save_and_close" = "Save & Close";
+"title_of_habit" = "Habit Title";
+"title_of_habit_detail" = "Name this Habit as you like";
+"secret" = "Secret";
+"secret_password" = "Password";
+"secret_detail" = "If you set this Habit secret, you are asked to enter pin code when you select this Habit";
+"delete" = "Delete";
+"delete_detail" = "You want to delete this Habit?";
+"delete_confirm" = "Once you delete this, data never comes back. You really want to delete?";
